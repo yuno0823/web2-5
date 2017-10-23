@@ -3,5 +3,5 @@ title: Modern Blog(jekyllを使ったページ)
 description: Modern-Blogを使ったページ
 keywords: Modern, Blogging, Fun
 author: kiyura
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "https://yuno0823.github.io/web2-5/" # the subpath of your site, e.g. /blog/
 url: "https://yuno0823.github.io/web2-5/" # the base hostname & protocol for your site
